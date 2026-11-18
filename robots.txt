@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3193-colonial.netlify.app/sitemap.xml
